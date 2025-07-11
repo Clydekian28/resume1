@@ -1,7 +1,7 @@
 <html>
 <head> Clyde kian Cadiang </head>
 <br>
-<body stylle="background-color:grey:"> 
+<body style="background-color: #f0f8ff;">
 <h1>About Me</h1>
 <p>I am currently studying Information Technology (IT), which focuses on the use of computers and technology to solve problems, manage information, My goal is to be a IT professinal</p>
 <br>
