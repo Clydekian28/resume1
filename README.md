@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Clyde kian Cadiang Resume</title>
   <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
@@ -11,7 +10,7 @@
     <div class="left-panel">
       <img src="profile.jpg" alt="Profile" class="profile-pic" />
       <h2>Clyde Kian Cadiang</h2>
-      <p class="title">GRAPHIC DESIGNER</p>
+      <p class="title">Tambay pero Buhay</p>
       <h3>CONTACT INFO</h3>
       <ul>
         <li>📞 09488400215</li>
@@ -47,5 +46,15 @@
         <h2>Skills</h2>
         <p>• Programming • Basic HTML • Trouble Shooting • Basic Networking • Web Dev</p>
       </section>
+      <section>
+        <h2>Project And Experience</h2>
+        <p>Secret</p>
+      </section>
+    <a href="resume.pdf" class="download-btn" download>Download Resume</a>
+     </div>
+  </div>
+</body>
+</html>
+
 
       
