@@ -27,4 +27,6 @@
         <li>Reading Manhwa/Manhua/Manga</li>
         <li>Watching Animes</li>
       </ul>
+      <img src="asta-img.jpg" class="bottom-image" />
+    </div>
     
