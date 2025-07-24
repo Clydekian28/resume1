@@ -29,4 +29,23 @@
       </ul>
       <img src="asta-img.jpg" class="bottom-image" />
     </div>
-    
+     <div class="right-panel">
+      <section class="about">
+        <h2>About Me</h2>
+        <p>I am an IT student passionate about technology, problem-solving, and continuous learning.</p>
+      </section>
+      <section>
+        <h2>Education</h2>
+        <ul>
+          <li><strong>Elementary:</strong> Capas West Elementary School</li>
+          <li><strong>High School:</strong> O'Donnell High School</li>
+          <li><strong>Senior High:</strong> O'Donnell Senior High School</li>
+          <li><strong>College:</strong> Dominican College of Tarlac</li>
+        </ul>
+      </section>
+       <section>
+        <h2>Skills</h2>
+        <p>• Programming • Basic HTML • Trouble Shooting • Basic Networking • Web Dev</p>
+      </section>
+
+      
