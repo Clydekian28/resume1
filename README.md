@@ -8,7 +8,7 @@
 <body>
   <div class="resume-container">
     <div class="left-panel">
-      <img src="profile.jpg" alt="Profile" class="profile-pic" />
+      <img src="profile.jpg" alt="Profile" class="profile-pic"width=200>
       <h2>Clyde Kian Cadiang</h2>
       <p class="title">Tambay pero Buhay</p>
       <h3>CONTACT INFO</h3>
